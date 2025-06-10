@@ -9,7 +9,7 @@ import SearchBar from "../SearchBar/SearchBar.tsx";
 import ErrorMessage from "../ErrorMessage/ErrorMessage.tsx";
 //import Loader from "../Loader/Loader.tsx";
 import { useQuery, keepPreviousData } from "@tanstack/react-query";
-import ReactDOM from "react-dom";
+//import ReactDOM from "react-dom";
 import ReactPaginate from "react-paginate";
 
 const notify = () =>
